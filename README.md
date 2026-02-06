@@ -36,5 +36,5 @@ The project uses a weighted ranking algorithm to evaluate potential sites:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/light-pollution-analysis.git](https://github.com/your-username/light-pollution-analysis.git)
+   git clone [https://github.com/Retunse/light-pollution-analysis.git](https://github.com/Retunse/light-pollution-analysis.git)
    cd light-pollution-analysis
